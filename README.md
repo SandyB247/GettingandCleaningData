@@ -30,7 +30,7 @@ saving your submission).
 5. Start R from the command line
 6. Source("run_analysis.R")
 
-**HOW THE run_analysis.R SCRIPT WORKS****
+**HOW THE run_analysis.R SCRIPT WORKS**
 Review the run_analysis.R script in the root of the cloned repository and the comments associated with it.
 
 
